@@ -1,0 +1,15 @@
+C:\Users\ygari\OneDrive\Рабочий стол\Homework\task_34\bin\Debug\net6.0\task_34.exe
+C:\Users\ygari\OneDrive\Рабочий стол\Homework\task_34\bin\Debug\net6.0\task_34.deps.json
+C:\Users\ygari\OneDrive\Рабочий стол\Homework\task_34\bin\Debug\net6.0\task_34.runtimeconfig.json
+C:\Users\ygari\OneDrive\Рабочий стол\Homework\task_34\bin\Debug\net6.0\task_34.dll
+C:\Users\ygari\OneDrive\Рабочий стол\Homework\task_34\bin\Debug\net6.0\task_34.pdb
+C:\Users\ygari\OneDrive\Рабочий стол\Homework\task_34\obj\Debug\net6.0\task_34.csproj.AssemblyReference.cache
+C:\Users\ygari\OneDrive\Рабочий стол\Homework\task_34\obj\Debug\net6.0\task_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygari\OneDrive\Рабочий стол\Homework\task_34\obj\Debug\net6.0\task_34.AssemblyInfoInputs.cache
+C:\Users\ygari\OneDrive\Рабочий стол\Homework\task_34\obj\Debug\net6.0\task_34.AssemblyInfo.cs
+C:\Users\ygari\OneDrive\Рабочий стол\Homework\task_34\obj\Debug\net6.0\task_34.csproj.CoreCompileInputs.cache
+C:\Users\ygari\OneDrive\Рабочий стол\Homework\task_34\obj\Debug\net6.0\task_34.dll
+C:\Users\ygari\OneDrive\Рабочий стол\Homework\task_34\obj\Debug\net6.0\refint\task_34.dll
+C:\Users\ygari\OneDrive\Рабочий стол\Homework\task_34\obj\Debug\net6.0\task_34.pdb
+C:\Users\ygari\OneDrive\Рабочий стол\Homework\task_34\obj\Debug\net6.0\task_34.genruntimeconfig.cache
+C:\Users\ygari\OneDrive\Рабочий стол\Homework\task_34\obj\Debug\net6.0\ref\task_34.dll
