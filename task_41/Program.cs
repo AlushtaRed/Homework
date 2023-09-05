@@ -4,14 +4,14 @@
 // 1, -7, 567, 89, 223-> 3
 Console.WriteLine("Сколько чисел будем вводить?");
 int number = Convert.ToInt32(Console.ReadLine());
-int []array = new int[number];
+int[] array = new int[number];
 
-void FillArray(int[]array)
+void FillArray(int[] array)
 {
     Console.WriteLine("Введите числа");
     int length = array.Length;
     int index = 0;
-    while(index<length)
+    while (index < length)
     {
         array[index] = Convert.ToInt32(Console.ReadLine());
         index++;
@@ -26,7 +26,7 @@ int length = array.Length;
 for (int index = 0; index < length; index++)
 {
     if (array[index] > 0)
-    count = count + 1;
+        count = count + 1;
 
 }
 Console.WriteLine($"Количество положительных чисел - {count}");
